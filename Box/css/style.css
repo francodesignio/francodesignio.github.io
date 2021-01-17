@@ -426,6 +426,7 @@ h5 {
     display: table;
     height: 100vh;
     width: 100%;
+    background-image: url(../img/franco-bg.jpg);
 }
 
 .box-intro .table-cell {
@@ -530,6 +531,7 @@ b i:last-child {
 .box-headline {
     font-size: 130px;
     line-height: 1.0;
+    padding-top: 400px;
 }
 
 .box-words-wrapper {
@@ -560,6 +562,7 @@ b i:last-child {
 .box-headline.rotate-2 .box-words-wrapper {
     -webkit-perspective: 300px;
     perspective: 300px;
+
 }
 
 .box-headline.rotate-2 i,
