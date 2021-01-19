@@ -85,7 +85,7 @@ a {
 ==================================================*/
 
 h1 {
-    color: #393939;
+    color: #9AADC7  ;
     font-size: 60px;
     text-transform: uppercase;
 }
@@ -427,6 +427,7 @@ h5 {
     height: 100vh;
     width: 100%;
     background-image: url(../img/franco-bg.jpg);
+    background-size:cover ;
 }
 
 .box-intro .table-cell {
@@ -531,7 +532,7 @@ b i:last-child {
 .box-headline {
     font-size: 130px;
     line-height: 1.0;
-    padding-top: 400px;
+    padding-top: 250px;
 }
 
 .box-words-wrapper {
