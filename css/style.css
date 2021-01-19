@@ -435,9 +435,10 @@ h5 {
     display: table;
     height: 100vh;
     width: 100%;
-    background-image: url(../img/franco-bg.jpg);
+    background-image: url(../img/franco-bg-reduced.jpg);
     background-position: center, center;
-    background-size: cover ;
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 
