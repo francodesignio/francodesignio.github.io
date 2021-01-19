@@ -80,6 +80,9 @@ a {
     font-size: 11px;
 }
 
+.about {
+  background-color: #9AADC7
+}
 
 /* typography
 ==================================================*/
@@ -429,6 +432,7 @@ h5 {
     background-image: url(../img/franco-bg.jpg);
     background-size:cover ;
 }
+
 
 .box-intro .table-cell {
     display: table-cell;
