@@ -14,6 +14,7 @@
     - Preloader -
 	- Header -
     - box intro section -
+    - about section -
     - Portfoilo section -
     - Footer -
     - About page -
@@ -81,6 +82,11 @@ a {
 }
 
 .about {
+  background-color: #9AADC7
+}
+
+.intro {
+  display: block;
   background-color: #9AADC7
 }
 
@@ -429,7 +435,8 @@ h5 {
     display: table;
     height: 100vh;
     width: 100%;
-    background-image: url(../img/franco-bg.jpg);
+    background-image: url(../img/franco-bg-reduced.jpg);
+    background-position: center,center;
     background-size:cover ;
 }
 
@@ -536,7 +543,7 @@ b i:last-child {
 .box-headline {
     font-size: 130px;
     line-height: 1.0;
-    padding-top: 250px;
+    padding-top: 350px;
 }
 
 .box-words-wrapper {
@@ -687,6 +694,14 @@ b i:last-child {
         -webkit-transform: translateZ(-20px) rotateX(-90deg);
         transform: translateZ(-20px) rotateX(-90deg);
     }
+}
+
+/* about section */
+
+.about-section {
+  background-color: #333333;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
 
