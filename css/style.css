@@ -98,7 +98,7 @@ a {
 ==================================================*/
 
 h1 {
-    color: #9AADC7  ;
+    color: #ffff  ;
     font-size: 60px;
     text-transform: uppercase;
 }
@@ -703,7 +703,7 @@ b i:last-child {
 /* about section */
 
 .about-section {
-  background-color: #333333;
+  background-color: #1b1b1b;
   padding-top: 80px;
   padding-bottom: 80px;
 }
@@ -1292,7 +1292,7 @@ textarea:focus {
 	6. Work Experience Style
 ------------------------------------------------------*/
 
-.myexperties {
+  .myexperties {
 	background:#fff;
 }
 .myexperties .container{
@@ -1306,7 +1306,7 @@ textarea:focus {
 	font-family:'Crimson Text',serif;
 	font-size:21px;
 	line-height:24px;
-	color:#5b4c5c;
+	color:#212121;
 	font-style:italic;
 }
 .expertiesdesc {
@@ -1327,7 +1327,7 @@ textarea:focus {
 }
 .expertiesdesc h5 {
 	font-family: 'Crimson Text', serif;
-	color:#5b4c5c;
+	color:#212121;
 	font-size:18px;
 	font-style:italic;
 	font-weight:400;
@@ -1338,10 +1338,19 @@ textarea:focus {
 ------------------------------------------------------*/
 
 .educationdiploma {
-	background:#f8f8f8;
+	background:#1b1b1b;
 }
 .educationdiploma .container{
 	padding-top:65px ;
 	padding-bottom:0 ;
 	margin-bottom:-20px;
+}
+.expertiesedu {
+	padding:70px 63px 70px 0;
+	text-align:right;
+	font-family:'Crimson Text',serif;
+	font-size:21px;
+	line-height:24px;
+	color:#ffff;
+	font-style:italic;
 }
